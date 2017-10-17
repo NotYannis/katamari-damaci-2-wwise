@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{13F31EE2-C94F-4191-879B-9C980D53B2D5}" SchemaVersion="80">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{13F31EE2-C94F-4191-879B-9C980D53B2D5}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchContainer Name="ambiance" ID="{7F151133-EA2F-4590-B189-07E1A44FBCEE}" ShortID="368478223">
+					<PropertyList>
+						<Property Name="SwitchBehavior" Type="int16" Value="1"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>6</Value>
+							</ValueList>
+							<RTPCList>
+								<RTPC Name="" ID="{D212E075-D203-4E78-B7BB-E6ACD72D4B90}" ShortID="245447008">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="Volume_control" ID="{9670A66E-6BC4-4AED-ACB4-0C90DEC217D5}" WorkUnitID="{A1E9D593-E353-47D8-8D51-712D1A117028}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{818A8805-B9B2-4A24-9B7B-8CDA23A94DC3}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="3"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-200</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>0</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{104B8916-1025-4034-AA9B-0EF24B40C9B6}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Ambience Nature Field Windy 02" ID="{58B4AC1F-6EF7-41DA-B9DE-73E573B76E3C}" ShortID="319938628">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Ambience Nature Field Windy 02" ID="{3F0A22A2-20CC-4A4E-B059-3D8A562B5A90}" ShortID="996396326">
+									<PropertyList>
+										<Property Name="LoopBegin" Type="Real64" Value="7.13823111111111"/>
+										<Property Name="LoopEnd" Type="Real64" Value="62.7598933333333"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>Ambience Nature Field Windy 02.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Ambience Nature Field Windy 02" ID="{3F0A22A2-20CC-4A4E-B059-3D8A562B5A90}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Ambience Night Crickets And A Bullfrog 01" ID="{C189E47F-EBED-4180-85D6-B2F70FA15754}" ShortID="161457170">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Ambience Night Crickets And A Bullfrog 01" ID="{E8EE87C6-2289-4FB5-A111-66435FFB0C77}" ShortID="38568656">
+									<PropertyList>
+										<Property Name="LoopBegin" Type="Real64" Value="0.494714820261438"/>
+										<Property Name="LoopEnd" Type="Real64" Value="51.5916883986928"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>Ambience Night Crickets And A Bullfrog 01.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Ambience Night Crickets And A Bullfrog 01" ID="{E8EE87C6-2289-4FB5-A111-66435FFB0C77}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<GroupingInfo>
+						<GroupRef Name="ambiance" ID="{0BF59762-EC70-4C4F-8199-4A0DAE7E4CC1}"/>
+						<DefaultSwitchRef Name="" ID="{00000000-0000-0000-0000-000000000000}"/>
+						<GroupingBehaviorList>
+							<GroupingBehavior>
+								<ItemRef Name="Ambience Nature Field Windy 02" ID="{58B4AC1F-6EF7-41DA-B9DE-73E573B76E3C}"/>
+							</GroupingBehavior>
+							<GroupingBehavior>
+								<ItemRef Name="Ambience Night Crickets And A Bullfrog 01" ID="{C189E47F-EBED-4180-85D6-B2F70FA15754}"/>
+							</GroupingBehavior>
+						</GroupingBehaviorList>
+						<GroupingList>
+							<Grouping>
+								<SwitchRef Name="nuit" ID="{DC10B170-02E4-4461-98D9-3DE253C9C369}"/>
+								<ItemList>
+									<ItemRef Name="Ambience Night Crickets And A Bullfrog 01" ID="{C189E47F-EBED-4180-85D6-B2F70FA15754}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="jour" ID="{5A956EA9-D776-490F-863E-DDB583FA52BE}"/>
+								<ItemList>
+									<ItemRef Name="Ambience Nature Field Windy 02" ID="{58B4AC1F-6EF7-41DA-B9DE-73E573B76E3C}"/>
+								</ItemList>
+							</Grouping>
+						</GroupingList>
+					</GroupingInfo>
+				</SwitchContainer>
+				<RandomSequenceContainer Name="écraser" ID="{0131F72A-8138-4BC5-BDA5-98037872FD83}" ShortID="811387818">
+					<PropertyList>
+						<Property Name="PositioningType" Type="int16" Value="1"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="New Attenuation" ID="{E7737C89-C2FF-4D15-8116-1E0F2040C060}" WorkUnitID="{38F669FA-E022-49F2-8D7E-145685C59EDE}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Impact Body Fall In Dirt 19" ID="{E85E8BA5-776E-4671-AD7B-600FD2B9EB18}" ShortID="768358562">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Impact Body Fall In Dirt 19" ID="{21E043CD-1B83-453C-8C0D-2DA24B422365}" ShortID="654976447">
+									<Language>SFX</Language>
+									<AudioFile>Impact Body Fall In Dirt 19.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Impact Body Fall In Dirt 19" ID="{21E043CD-1B83-453C-8C0D-2DA24B422365}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Impact Body Fall In Dirt 06" ID="{4B75F601-5970-42F9-97A5-D33E005C272E}" ShortID="137088992">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Impact Body Fall In Dirt 06" ID="{10651471-7F6A-4111-8682-7E8AC709392F}" ShortID="621153426">
+									<Language>SFX</Language>
+									<AudioFile>Impact Body Fall In Dirt 06.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Impact Body Fall In Dirt 06" ID="{10651471-7F6A-4111-8682-7E8AC709392F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Impact Body Fall In Dirt Fast 01" ID="{28811041-47B7-4161-BAD0-749F259AC29B}" ShortID="825846203">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Impact Body Fall In Dirt Fast 01" ID="{1086BD9E-BBBA-4C0C-A55C-BB3EE795B85C}" ShortID="878114675">
+									<Language>SFX</Language>
+									<AudioFile>Impact Body Fall In Dirt Fast 01.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Impact Body Fall In Dirt Fast 01" ID="{1086BD9E-BBBA-4C0C-A55C-BB3EE795B85C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="gonfler" ID="{D9BEE791-F3F5-400C-B6E6-EB8EC55EA707}" ShortID="103256478">
+					<PropertyList>
+						<Property Name="PositioningType" Type="int16" Value="1"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="New Attenuation" ID="{E7737C89-C2FF-4D15-8116-1E0F2040C060}" WorkUnitID="{38F669FA-E022-49F2-8D7E-145685C59EDE}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Cartoon Balloon Being Blown Up 02" ID="{40ADA2E6-ADAA-4BD5-99F0-F4F8A2D5A9E3}" ShortID="956206500">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Cartoon Balloon Being Blown Up 02" ID="{30C7338E-8120-424C-B00C-1A49589717C5}" ShortID="19170043">
+									<Language>SFX</Language>
+									<AudioFile>Cartoon Balloon Being Blown Up 02.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Cartoon Balloon Being Blown Up 02" ID="{30C7338E-8120-424C-B00C-1A49589717C5}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Cartoon Balloon Blow Up 05" ID="{1EF5C634-97FC-4AA8-92A4-373DF277B372}" ShortID="488141927">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Cartoon Balloon Blow Up 05" ID="{95F2174D-424D-4DA3-A9CF-D8284195AB21}" ShortID="435908087">
+									<Language>SFX</Language>
+									<AudioFile>Cartoon Balloon Blow Up 05.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Cartoon Balloon Blow Up 05" ID="{95F2174D-424D-4DA3-A9CF-D8284195AB21}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Cartoon Balloon Blow Up 01" ID="{A9B78F72-736D-44B9-888A-95444BA004FB}" ShortID="557016930">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Cartoon Balloon Blow Up 01" ID="{B26E50D7-CBFD-4A36-AFA0-F6688D0ADB93}" ShortID="369599557">
+									<Language>SFX</Language>
+									<AudioFile>Cartoon Balloon Blow Up 01.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Cartoon Balloon Blow Up 01" ID="{B26E50D7-CBFD-4A36-AFA0-F6688D0ADB93}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Cartoon Balloon Blow Up Long 01" ID="{2569B57D-B110-4C7B-9084-ACD337092DC7}" ShortID="950947759">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6B561DF9-C104-4BC4-AFFF-20A9F1120F79}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B7DC1BD1-661D-4219-92AA-026B25D6B2FE}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Cartoon Balloon Blow Up Long 01" ID="{958F53D8-5EC3-4F07-B073-C9FA4F2430D6}" ShortID="227102332">
+									<Language>SFX</Language>
+									<AudioFile>Cartoon Balloon Blow Up Long 01.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Cartoon Balloon Blow Up Long 01" ID="{958F53D8-5EC3-4F07-B073-C9FA4F2430D6}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

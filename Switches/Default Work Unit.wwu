@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0B6FBEDD-7129-4FA2-8476-F93998F9DFD7}" SchemaVersion="80">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{0B6FBEDD-7129-4FA2-8476-F93998F9DFD7}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="music" ID="{A38F7098-DC22-4877-A44E-7F4A6D8B6999}">
+					<ChildrenList>
+						<Switch Name="nuit" ID="{B7790F4B-DEC3-4508-A73B-ECE52139EBC1}"/>
+						<Switch Name="jour" ID="{578680BE-F157-4CD2-8E1C-3FC4EEDF782E}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="ambiance" ID="{0BF59762-EC70-4C4F-8199-4A0DAE7E4CC1}">
+					<ChildrenList>
+						<Switch Name="jour" ID="{5A956EA9-D776-490F-863E-DDB583FA52BE}"/>
+						<Switch Name="nuit" ID="{DC10B170-02E4-4461-98D9-3DE253C9C369}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

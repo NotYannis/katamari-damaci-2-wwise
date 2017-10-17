@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="125">
+	<RootPaths>
+		<ProjectRoot>D:\wwise_projet_connecte\katamari-damaci-2-wwise\</ProjectRoot>
+		<SourceFilesRoot>D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\wwise_projet_connecte\katamari-damaci-2-wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\wwise_projet_connecte\katamari-damaci-2-wwise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="4072029455" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\New_SoundBank</ObjectPath>
+			<ShortName>New_SoundBank</ShortName>
+			<Path>New_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2981377429" Name="ambiance" ObjectPath="\Events\Default Work Unit\ambiance"/>
+				<Event Id="2785223928" Name="ecraser" ObjectPath="\Events\Default Work Unit\ecraser" MaxAttenuation="100.000000"/>
+				<Event Id="3398134696" Name="gonfler" ObjectPath="\Events\Default Work Unit\gonfler" MaxAttenuation="100.000000"/>
+				<Event Id="2724869341" Name="music_switch" ObjectPath="\Events\Default Work Unit\music_switch"/>
+				<Event Id="1000013658" Name="roule_eau" ObjectPath="\Events\Default Work Unit\roule_eau"/>
+				<Event Id="321915247" Name="roule_feuille" ObjectPath="\Events\Default Work Unit\roule_feuille"/>
+				<Event Id="379428675" Name="roule_herbe" ObjectPath="\Events\Default Work Unit\roule_herbe"/>
+				<Event Id="3477848037" Name="volume_music_control" ObjectPath="\Events\Default Work Unit\volume_music_control" MaxAttenuation="0.000000"/>
+				<Event Id="83106753" Name="volume_sfx_control" ObjectPath="\Events\Default Work Unit\volume_sfx_control" MaxAttenuation="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="19170043" Language="SFX">
+					<ShortName>Cartoon Balloon Being Blown Up 02.wav</ShortName>
+					<Path>SFX\Cartoon Balloon Being Blown Up 02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="38568656" Language="SFX">
+					<ShortName>Ambience Night Crickets And A Bullfrog 01.wav</ShortName>
+					<Path>SFX\Ambience Night Crickets And A Bullfrog 01_A1FDC5D7.wem</Path>
+				</File>
+				<File Id="227102332" Language="SFX">
+					<ShortName>Cartoon Balloon Blow Up Long 01.wav</ShortName>
+					<Path>SFX\Cartoon Balloon Blow Up Long 01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="276442438" Language="SFX">
+					<ShortName>boucle1_nuit.wav</ShortName>
+					<Path>SFX\boucle1_nuit_F17FB28C.wem</Path>
+				</File>
+				<File Id="369599557" Language="SFX">
+					<ShortName>Cartoon Balloon Blow Up 01.wav</ShortName>
+					<Path>SFX\Cartoon Balloon Blow Up 01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="395857338" Language="SFX">
+					<ShortName>transition_nuit_jour.wav</ShortName>
+					<Path>SFX\transition_nuit_jour_F17FB28C.wem</Path>
+				</File>
+				<File Id="435908087" Language="SFX">
+					<ShortName>Cartoon Balloon Blow Up 05.wav</ShortName>
+					<Path>SFX\Cartoon Balloon Blow Up 05_1C9C67B2.wem</Path>
+				</File>
+				<File Id="437382107" Language="SFX">
+					<ShortName>roule_feuille.wav</ShortName>
+					<Path>SFX\roule_feuille_F17FB28C.wem</Path>
+				</File>
+				<File Id="449543211" Language="SFX">
+					<ShortName>boucle_jour.wav</ShortName>
+					<Path>SFX\boucle_jour_F17FB28C.wem</Path>
+				</File>
+				<File Id="621153426" Language="SFX">
+					<ShortName>Impact Body Fall In Dirt 06.wav</ShortName>
+					<Path>SFX\Impact Body Fall In Dirt 06_1C9C67B2.wem</Path>
+				</File>
+				<File Id="634455854" Language="SFX">
+					<ShortName>roule_herbe.wav</ShortName>
+					<Path>SFX\roule_herbe_F17FB28C.wem</Path>
+				</File>
+				<File Id="646801811" Language="SFX">
+					<ShortName>boucle3_nuit.wav</ShortName>
+					<Path>SFX\boucle3_nuit_F17FB28C.wem</Path>
+				</File>
+				<File Id="654976447" Language="SFX">
+					<ShortName>Impact Body Fall In Dirt 19.wav</ShortName>
+					<Path>SFX\Impact Body Fall In Dirt 19_1C9C67B2.wem</Path>
+				</File>
+				<File Id="878114675" Language="SFX">
+					<ShortName>Impact Body Fall In Dirt Fast 01.wav</ShortName>
+					<Path>SFX\Impact Body Fall In Dirt Fast 01_1C9C67B2.wem</Path>
+				</File>
+				<File Id="890874821" Language="SFX">
+					<ShortName>boucle2_nuit.wav</ShortName>
+					<Path>SFX\boucle2_nuit_F17FB28C.wem</Path>
+				</File>
+				<File Id="973736146" Language="SFX">
+					<ShortName>roule.wav</ShortName>
+					<Path>SFX\roule_F17FB28C.wem</Path>
+				</File>
+				<File Id="977121398" Language="SFX">
+					<ShortName>roule_eau.wav</ShortName>
+					<Path>SFX\roule_eau_F17FB28C.wem</Path>
+				</File>
+				<File Id="996396326" Language="SFX">
+					<ShortName>Ambience Nature Field Windy 02.wav</ShortName>
+					<Path>SFX\Ambience Nature Field Windy 02_D7A02873.wem</Path>
+				</File>
+				<File Id="1015589318" Language="SFX">
+					<ShortName>boucle4_nuit.wav</ShortName>
+					<Path>SFX\boucle4_nuit_F17FB28C.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

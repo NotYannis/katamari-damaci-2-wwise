@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{37D6B896-1A50-445B-A984-120602F59122}" SchemaVersion="80">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{37D6B896-1A50-445B-A984-120602F59122}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="New_SoundBank" ID="{8A9AE5BD-D154-4F7B-B454-A0B6B4DCE22E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="roule_eau" ID="{9F9CB886-4688-40CA-8043-BAA6C3113257}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="roule_herbe" ID="{1B5FF267-1831-4370-9178-5072A81609F1}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="gonfler" ID="{0309C3D1-37C0-44FA-85DA-C6C2EBE16CE6}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="ecraser" ID="{41DED3D0-D16F-454A-B07C-F3883B370DC0}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="ambiance" ID="{3AA762F0-84A7-47AB-8F6A-DD77FD9774AE}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="volume_music_control" ID="{5523FD48-E596-4C20-8474-3004A62BBF3C}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="volume_sfx_control" ID="{ADFC3014-00D0-4D26-BDB3-224FAB3DDE2E}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music_switch" ID="{239FA3E1-3610-4D69-AA62-2541777D4776}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="roule_feuille" ID="{9F0CB010-E98A-4F66-93F2-677BB556E0BF}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

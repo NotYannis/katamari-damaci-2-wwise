@@ -1,0 +1,43 @@
+Event	ID	Name			Wwise Object Path	Notes
+	83106753	volume_sfx_control			\Default Work Unit\volume_sfx_control	
+	321915247	roule_feuille			\Default Work Unit\roule_feuille	
+	379428675	roule_herbe			\Default Work Unit\roule_herbe	
+	1000013658	roule_eau			\Default Work Unit\roule_eau	
+	2724869341	music_switch			\Default Work Unit\music_switch	
+	2785223928	ecraser			\Default Work Unit\ecraser	
+	2981377429	ambiance			\Default Work Unit\ambiance	
+	3398134696	gonfler			\Default Work Unit\gonfler	
+	3477848037	volume_music_control			\Default Work Unit\volume_music_control	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2981377429	ambiance			\Default Work Unit\ambiance	
+
+Switch	ID	Name	Switch Group			Notes
+	733794917	nuit	ambiance			
+	3896524701	jour	ambiance			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2822349657	volume_control_music			\Default Work Unit\volume_control_music	
+	4194816893	Volume_control			\Default Work Unit\Volume_control	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	19170043	Cartoon Balloon Being Blown Up 02	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Cartoon Balloon Being Blown Up 02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\gonfler\Cartoon Balloon Being Blown Up 02		266092
+	38568656	Ambience Night Crickets And A Bullfrog 01	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Ambience Night Crickets And A Bullfrog 01_A1FDC5D7.wem		\Actor-Mixer Hierarchy\Default Work Unit\ambiance\Ambience Night Crickets And A Bullfrog 01		17301012
+	227102332	Cartoon Balloon Blow Up Long 01	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Cartoon Balloon Blow Up Long 01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\gonfler\Cartoon Balloon Blow Up Long 01		605944
+	276442438	boucle1_nuit	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\boucle1_nuit_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\music\music_nuit\boucle1_nuit\boucle1_nuit		5644864
+	369599557	Cartoon Balloon Blow Up 01	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Cartoon Balloon Blow Up 01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\gonfler\Cartoon Balloon Blow Up 01		519828
+	395857338	transition_nuit_jour	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\transition_nuit_jour_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\music\music_jour\transition_nuit_jour\transition_nuit_jour		2822464
+	435908087	Cartoon Balloon Blow Up 05	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Cartoon Balloon Blow Up 05_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\gonfler\Cartoon Balloon Blow Up 05		302764
+	437382107	roule_feuille	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\roule_feuille_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\roule_feal\roule_feuille\roule_feuille		7320664
+	449543211	boucle_jour	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\boucle_jour_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\music\music_jour\boucle_jour\boucle_jour		5115664
+	621153426	Impact Body Fall In Dirt 06	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Impact Body Fall In Dirt 06_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\écraser\Impact Body Fall In Dirt 06		297088
+	634455854	roule_herbe	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\roule_herbe_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\roule_grass\roule_herbe\roule_herbe		2910664
+	646801811	boucle3_nuit	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\boucle3_nuit_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\music\music_nuit\boucle1_nuit\boucle3_nuit		5644864
+	654976447	Impact Body Fall In Dirt 19	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Impact Body Fall In Dirt 19_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\écraser\Impact Body Fall In Dirt 19		324256
+	878114675	Impact Body Fall In Dirt Fast 01	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Impact Body Fall In Dirt Fast 01_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\écraser\Impact Body Fall In Dirt Fast 01		189948
+	890874821	boucle2_nuit	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\boucle2_nuit_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\music\music_nuit\boucle1_nuit\boucle2_nuit		5644864
+	973736146	roule	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\roule_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\roule_water\roule_eau\roule		1675864
+	977121398	roule_eau	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\roule_eau_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\roule_water\roule_eau\roule_eau		7320664
+	996396326	Ambience Nature Field Windy 02	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Ambience Nature Field Windy 02_D7A02873.wem		\Actor-Mixer Hierarchy\Default Work Unit\ambiance\Ambience Nature Field Windy 02		17301504
+	1015589318	boucle4_nuit	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\boucle4_nuit_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\music\music_nuit\boucle1_nuit\boucle4_nuit		5644864
+

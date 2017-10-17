@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" SchemaVersion="80">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="roule_eau" ID="{9F9CB886-4688-40CA-8043-BAA6C3113257}">
+					<ChildrenList>
+						<Action Name="" ID="{F719B3C1-73CE-472F-9368-6CB0841A71E1}" ShortID="947375622">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_water" ID="{CE82306D-8806-4DBE-AE43-6F3B833DDF9A}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{0859FCCB-A8CD-4146-932A-D23D8721D2B9}" ShortID="648336474">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_feal" ID="{A6C7FF1D-C7E5-41C7-85B3-01AA08540B85}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{84DB705D-D1EA-4518-B530-D127A6EB051E}" ShortID="816564314">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_grass" ID="{61BE4A58-2827-4158-95F6-BD8B24414555}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="roule_herbe" ID="{1B5FF267-1831-4370-9178-5072A81609F1}">
+					<ChildrenList>
+						<Action Name="" ID="{0AF5327F-4CD8-4A69-BDF9-C8825499CE57}" ShortID="960531345">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_grass" ID="{61BE4A58-2827-4158-95F6-BD8B24414555}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{B43C777C-FB1D-41E3-A33E-A75A93407129}" ShortID="108559218">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_feal" ID="{A6C7FF1D-C7E5-41C7-85B3-01AA08540B85}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{2FD6FE91-ED1D-4B69-A28D-30F6C9105346}" ShortID="497776549">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_water" ID="{CE82306D-8806-4DBE-AE43-6F3B833DDF9A}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="roule_feuille" ID="{9F0CB010-E98A-4F66-93F2-677BB556E0BF}">
+					<ChildrenList>
+						<Action Name="" ID="{2CE6AE24-8571-4065-8ACF-5C14C14C3094}" ShortID="386039749">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_feal" ID="{A6C7FF1D-C7E5-41C7-85B3-01AA08540B85}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{08090977-031D-4A01-A398-B7B6513F134F}" ShortID="503636916">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_grass" ID="{61BE4A58-2827-4158-95F6-BD8B24414555}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{699CC622-0F6C-44CB-872C-4A1B9A46ACB0}" ShortID="294503999">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roule_water" ID="{CE82306D-8806-4DBE-AE43-6F3B833DDF9A}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="music_switch" ID="{239FA3E1-3610-4D69-AA62-2541777D4776}">
+					<ChildrenList>
+						<Action Name="" ID="{6EFC4715-D808-434D-9188-9FE84E6A5A23}" ShortID="1073221279">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="music" ID="{9FA2D56D-02CB-4664-A15F-AB078C1D5028}" WorkUnitID="{C380E606-D7F6-43F7-B1BA-EBF45651774A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ambiance" ID="{3AA762F0-84A7-47AB-8F6A-DD77FD9774AE}">
+					<ChildrenList>
+						<Action Name="" ID="{4A514E9D-E8A4-4FEE-BC12-DB2CB0B84610}" ShortID="413515525">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiance" ID="{7F151133-EA2F-4590-B189-07E1A44FBCEE}" WorkUnitID="{13F31EE2-C94F-4191-879B-9C980D53B2D5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="volume_sfx_control" ID="{ADFC3014-00D0-4D26-BDB3-224FAB3DDE2E}"/>
+				<Event Name="volume_music_control" ID="{5523FD48-E596-4C20-8474-3004A62BBF3C}"/>
+				<Event Name="ecraser" ID="{41DED3D0-D16F-454A-B07C-F3883B370DC0}">
+					<ChildrenList>
+						<Action Name="" ID="{B9BBE574-6890-44C4-B3DB-D8B96A18812F}" ShortID="478647261">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="écraser" ID="{0131F72A-8138-4BC5-BDA5-98037872FD83}" WorkUnitID="{13F31EE2-C94F-4191-879B-9C980D53B2D5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="gonfler" ID="{0309C3D1-37C0-44FA-85DA-C6C2EBE16CE6}">
+					<ChildrenList>
+						<Action Name="" ID="{BA6BC42B-219D-46C3-91DA-DA47740A261A}" ShortID="506529477">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="gonfler" ID="{D9BEE791-F3F5-400C-B6E6-EB8EC55EA707}" WorkUnitID="{13F31EE2-C94F-4191-879B-9C980D53B2D5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

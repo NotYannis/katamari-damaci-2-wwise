@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A404E049-C75D-4FE4-B545-4D609C81C79D}" SchemaVersion="80">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{A404E049-C75D-4FE4-B545-4D609C81C79D}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{84FE2A2E-E57B-4B0C-96F8-63630BA4CF43}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="roule_eau" ID="{9F9CB886-4688-40CA-8043-BAA6C3113257}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="music_switch" ID="{239FA3E1-3610-4D69-AA62-2541777D4776}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="gonfler" ID="{0309C3D1-37C0-44FA-85DA-C6C2EBE16CE6}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="roule_feuille" ID="{9F0CB010-E98A-4F66-93F2-677BB556E0BF}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ambiance" ID="{3AA762F0-84A7-47AB-8F6A-DD77FD9774AE}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="roule_herbe" ID="{1B5FF267-1831-4370-9178-5072A81609F1}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ecraser" ID="{41DED3D0-D16F-454A-B07C-F3883B370DC0}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="volume_control_music" ID="{85487B1E-B18D-4A4F-816E-98E638BEB060}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Volume_control" ID="{9670A66E-6BC4-4AED-ACB4-0C90DEC217D5}"/>
+							<Value>100</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="nuit" ID="{B7790F4B-DEC3-4508-A73B-ECE52139EBC1}"/>
+						<CurrentSwitchRef Name="jour" ID="{5A956EA9-D776-490F-863E-DDB583FA52BE}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>
