@@ -30,11 +30,11 @@
 				</Property>
 				<Property Name="General\LatestLanguage" Type="int32" Value="684519430"/>
 				<Property Name="General\LatestPlatform" Type="string" Value="Linux"/>
-				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value=""/>
-				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value=""/>
+				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="iOfvtgl30EO7B2m7kWt/6Q=="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="veWailTRe0+0VKC2tNziLg=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}"/>
-				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="bU4ElNyF8EeemA9xLuosswGVBBf/////xeSUV+P1gkeJIfswFcxBqwGVBBf/////"/>
+				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="xeSUV+P1gkeJIfswFcxBqwE4iRb/////bU4ElNyF8EeemA9xLuosswE4iRb/////"/>
 				<Property Name="Interactive Music\x64_{10A91E9A-95D3-45F8-8060-3C531EE67F35} - SegmentEditorZoomInfo" Type="string" Value="aC+hvYT20j8AAAAAAADwP0dY7mmE5TVAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
 				<Property Name="Interactive Music\x64_{13A3F3AB-05BD-41E4-AA26-FF4561861DE5} - SegmentEditorZoomInfo" Type="string" Value="AAAAAAAA8D8AAAAAAADwPwAAAAAA2DNAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
 				<Property Name="Interactive Music\x64_{68DD7736-67C2-4580-8E05-82C4E04316C9} - SegmentEditorZoomInfo" Type="string" Value="AAAAAAAA8D8AAAAAAADwP7NioIQ3mi5AAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
@@ -94,7 +94,7 @@
 				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value=""/>
 				<Property Name="RTPC\GameParameterSimValue\{85487B1E-B18D-4A4F-816E-98E638BEB060}" Type="Real64" Value="100"/>
 				<Property Name="RTPC\GameParameterSimValue\{9670A66E-6BC4-4AED-ACB4-0C90DEC217D5}" Type="Real64" Value="100"/>
-				<Property Name="SoundBank Manager\x64_Expand States" Type="string" Value=""/>
+				<Property Name="SoundBank Manager\x64_Expand States" Type="string" Value="lrjWN1AaW0SphBIGAvWRIg=="/>
 				<Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\"/>
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>
