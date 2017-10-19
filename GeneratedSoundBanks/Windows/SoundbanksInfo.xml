@@ -24,7 +24,9 @@
 				<Event Id="2981377429" Name="ambiance" ObjectPath="\Events\Default Work Unit\ambiance"/>
 				<Event Id="2785223928" Name="ecraser" ObjectPath="\Events\Default Work Unit\ecraser" MaxAttenuation="100.000000"/>
 				<Event Id="3398134696" Name="gonfler" ObjectPath="\Events\Default Work Unit\gonfler" MaxAttenuation="100.000000"/>
+				<Event Id="2607556080" Name="menu" ObjectPath="\Events\Default Work Unit\menu"/>
 				<Event Id="2724869341" Name="music_switch" ObjectPath="\Events\Default Work Unit\music_switch"/>
+				<Event Id="1256202815" Name="play" ObjectPath="\Events\Default Work Unit\play" MaxAttenuation="0.000000"/>
 				<Event Id="1000013658" Name="roule_eau" ObjectPath="\Events\Default Work Unit\roule_eau"/>
 				<Event Id="321915247" Name="roule_feuille" ObjectPath="\Events\Default Work Unit\roule_feuille"/>
 				<Event Id="379428675" Name="roule_herbe" ObjectPath="\Events\Default Work Unit\roule_herbe"/>

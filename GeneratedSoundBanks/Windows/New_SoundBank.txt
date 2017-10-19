@@ -3,6 +3,8 @@ Event	ID	Name			Wwise Object Path	Notes
 	321915247	roule_feuille			\Default Work Unit\roule_feuille	
 	379428675	roule_herbe			\Default Work Unit\roule_herbe	
 	1000013658	roule_eau			\Default Work Unit\roule_eau	
+	1256202815	play			\Default Work Unit\play	
+	2607556080	menu			\Default Work Unit\menu	
 	2724869341	music_switch			\Default Work Unit\music_switch	
 	2785223928	ecraser			\Default Work Unit\ecraser	
 	2981377429	ambiance			\Default Work Unit\ambiance	
@@ -19,6 +21,12 @@ Switch	ID	Name	Switch Group			Notes
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	2822349657	volume_control_music			\Default Work Unit\volume_control_music	
 	4194816893	Volume_control			\Default Work Unit\Volume_control	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	19170043	Cartoon Balloon Being Blown Up 02	D:\wwise_projet_connecte\katamari-damaci-2-wwise\.cache\Windows\SFX\Cartoon Balloon Being Blown Up 02_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\gonfler\Cartoon Balloon Being Blown Up 02		266092

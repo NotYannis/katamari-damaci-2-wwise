@@ -9,32 +9,6 @@
 							<ValueList>
 								<Value>-4</Value>
 							</ValueList>
-							<RTPCList>
-								<RTPC Name="" ID="{6BF15318-7C31-4264-A838-EBA62A625FC6}" ShortID="270453794">
-									<ReferenceList>
-										<Reference Name="ControlInput">
-											<ObjectRef Name="Volume_control" ID="{9670A66E-6BC4-4AED-ACB4-0C90DEC217D5}" WorkUnitID="{A1E9D593-E353-47D8-8D51-712D1A117028}"/>
-										</Reference>
-									</ReferenceList>
-									<Curve Name="" ID="{7CF393A3-1179-46CF-B63D-1BCE4C6B5675}">
-										<PropertyList>
-											<Property Name="Flags" Type="int32" Value="3"/>
-										</PropertyList>
-										<PointList>
-											<Point>
-												<XPos>0</XPos>
-												<YPos>-200</YPos>
-												<Flags>5</Flags>
-											</Point>
-											<Point>
-												<XPos>100</XPos>
-												<YPos>0</YPos>
-												<Flags>37</Flags>
-											</Point>
-										</PointList>
-									</Curve>
-								</RTPC>
-							</RTPCList>
 						</Property>
 					</PropertyList>
 					<ReferenceList>
@@ -517,32 +491,6 @@
 							<ValueList>
 								<Value>-4</Value>
 							</ValueList>
-							<RTPCList>
-								<RTPC Name="" ID="{22845BFF-A33D-447B-AB95-592C6893FF91}" ShortID="876170287">
-									<ReferenceList>
-										<Reference Name="ControlInput">
-											<ObjectRef Name="Volume_control" ID="{9670A66E-6BC4-4AED-ACB4-0C90DEC217D5}" WorkUnitID="{A1E9D593-E353-47D8-8D51-712D1A117028}"/>
-										</Reference>
-									</ReferenceList>
-									<Curve Name="" ID="{0C334A9B-732A-4DD6-91EE-0C204A1879E6}">
-										<PropertyList>
-											<Property Name="Flags" Type="int32" Value="3"/>
-										</PropertyList>
-										<PointList>
-											<Point>
-												<XPos>0</XPos>
-												<YPos>-200</YPos>
-												<Flags>5</Flags>
-											</Point>
-											<Point>
-												<XPos>100</XPos>
-												<YPos>0</YPos>
-												<Flags>37</Flags>
-											</Point>
-										</PointList>
-									</Curve>
-								</RTPC>
-							</RTPCList>
 						</Property>
 					</PropertyList>
 					<ReferenceList>
@@ -1028,32 +976,6 @@
 							<ValueList>
 								<Value>-4</Value>
 							</ValueList>
-							<RTPCList>
-								<RTPC Name="" ID="{BD9644CC-8183-4006-8E84-988AC0B8DC81}" ShortID="152388842">
-									<ReferenceList>
-										<Reference Name="ControlInput">
-											<ObjectRef Name="Volume_control" ID="{9670A66E-6BC4-4AED-ACB4-0C90DEC217D5}" WorkUnitID="{A1E9D593-E353-47D8-8D51-712D1A117028}"/>
-										</Reference>
-									</ReferenceList>
-									<Curve Name="" ID="{E267B36C-7B35-49AF-A43F-D5E989B42426}">
-										<PropertyList>
-											<Property Name="Flags" Type="int32" Value="3"/>
-										</PropertyList>
-										<PointList>
-											<Point>
-												<XPos>0</XPos>
-												<YPos>-200</YPos>
-												<Flags>5</Flags>
-											</Point>
-											<Point>
-												<XPos>100</XPos>
-												<YPos>0</YPos>
-												<Flags>37</Flags>
-											</Point>
-										</PointList>
-									</Curve>
-								</RTPC>
-							</RTPCList>
 						</Property>
 					</PropertyList>
 					<ReferenceList>
@@ -1539,32 +1461,6 @@
 							<ValueList>
 								<Value>5</Value>
 							</ValueList>
-							<RTPCList>
-								<RTPC Name="" ID="{EB1C06A7-72E0-485F-9217-447B63BEDF5F}" ShortID="261747063">
-									<ReferenceList>
-										<Reference Name="ControlInput">
-											<ObjectRef Name="volume_control_music" ID="{85487B1E-B18D-4A4F-816E-98E638BEB060}" WorkUnitID="{A1E9D593-E353-47D8-8D51-712D1A117028}"/>
-										</Reference>
-									</ReferenceList>
-									<Curve Name="" ID="{C580426E-674F-4139-851F-B4C2BD64BD9D}">
-										<PropertyList>
-											<Property Name="Flags" Type="int32" Value="3"/>
-										</PropertyList>
-										<PointList>
-											<Point>
-												<XPos>0</XPos>
-												<YPos>-200</YPos>
-												<Flags>5</Flags>
-											</Point>
-											<Point>
-												<XPos>100</XPos>
-												<YPos>0</YPos>
-												<Flags>37</Flags>
-											</Point>
-										</PointList>
-									</Curve>
-								</RTPC>
-							</RTPCList>
 						</Property>
 					</PropertyList>
 					<ReferenceList>
