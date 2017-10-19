@@ -46,7 +46,7 @@
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true"/>
 					<CurrentSwitchList ShowAll="true">
-						<CurrentSwitchRef Name="nuit" ID="{B7790F4B-DEC3-4508-A73B-ECE52139EBC1}"/>
+						<CurrentSwitchRef Name="jour" ID="{578680BE-F157-4CD2-8E1C-3FC4EEDF782E}"/>
 						<CurrentSwitchRef Name="jour" ID="{5A956EA9-D776-490F-863E-DDB583FA52BE}"/>
 					</CurrentSwitchList>
 				</SoundcasterSession>

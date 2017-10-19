@@ -6,7 +6,9 @@
 				<SoundBank Name="New_SoundBank" ID="{8A9AE5BD-D154-4F7B-B454-A0B6B4DCE22E}">
 					<ObjectInclusionList>
 						<ObjectRef Name="roule_eau" ID="{9F9CB886-4688-40CA-8043-BAA6C3113257}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="play" ID="{0BE239F3-72E4-4359-BB62-926FC026C3E8}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="roule_herbe" ID="{1B5FF267-1831-4370-9178-5072A81609F1}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="menu" ID="{C03419D6-7676-4399-BA75-BBC9925C3CFB}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="gonfler" ID="{0309C3D1-37C0-44FA-85DA-C6C2EBE16CE6}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="ecraser" ID="{41DED3D0-D16F-454A-B07C-F3883B370DC0}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="ambiance" ID="{3AA762F0-84A7-47AB-8F6A-DD77FD9774AE}" WorkUnitID="{68292999-CBFA-4C1F-ABF8-FEEB7B497E5F}" Filter="7" Origin="Manual"/>
