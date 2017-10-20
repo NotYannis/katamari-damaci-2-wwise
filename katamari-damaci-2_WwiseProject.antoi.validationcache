@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="80">
-	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="566644204" DateHigh="30623782"/>
+	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3521846504" DateHigh="30623967"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Attenuations\Default Work Unit.wwu" DateLow="567059554" DateHigh="30623782"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Audio Devices\Default Work Unit.wwu" DateLow="1431963937" DateHigh="30623535"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="2232015141" DateHigh="30623582"/>
@@ -9,19 +9,19 @@
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1431978973" DateHigh="30623535"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Effects\Default Work Unit.wwu" DateLow="1431999094" DateHigh="30623535"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Effects\Factory Effects.wwu" DateLow="3656826080" DateHigh="30623764"/>
-	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Events\Default Work Unit.wwu" DateLow="566218475" DateHigh="30623782"/>
+	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Events\Default Work Unit.wwu" DateLow="2638808250" DateHigh="30623963"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Game Parameters\Default Work Unit.wwu" DateLow="567354765" DateHigh="30623782"/>
-	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="566018479" DateHigh="30623782"/>
-	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\katamari-damaci-2_WwiseProject.antoi.wsettings" DateLow="1016893295" DateHigh="30623954"/>
+	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="3522131605" DateHigh="30623967"/>
+	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\katamari-damaci-2_WwiseProject.antoi.wsettings" DateLow="3949924311" DateHigh="30623967"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\katamari-damaci-2_WwiseProject.wproj" DateLow="1432695085" DateHigh="30623535"/>
-	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="566318830" DateHigh="30623782"/>
+	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3521471947" DateHigh="30623967"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1432064185" DateHigh="30623535"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Modulators\Default Work Unit.wwu" DateLow="1432084073" DateHigh="30623535"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Presets\Default Work Unit.wwu" DateLow="1432104087" DateHigh="30623535"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Queries\Default Work Unit.wwu" DateLow="1432114217" DateHigh="30623535"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Queries\Factory Queries.wwu" DateLow="1433204600" DateHigh="30623535"/>
-	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\SoundBanks\Default Work Unit.wwu" DateLow="3227073215" DateHigh="30623938"/>
-	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3227233230" DateHigh="30623938"/>
+	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\SoundBanks\Default Work Unit.wwu" DateLow="3949824683" DateHigh="30623967"/>
+	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="2639293504" DateHigh="30623963"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\States\Default Work Unit.wwu" DateLow="1432214173" DateHigh="30623535"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Switches\Default Work Unit.wwu" DateLow="2719854795" DateHigh="30623768"/>
 	<ValidationCacheItem File="D:\wwise_projet_connecte\katamari-damaci-2-wwise\Triggers\Default Work Unit.wwu" DateLow="1432254201" DateHigh="30623535"/>
